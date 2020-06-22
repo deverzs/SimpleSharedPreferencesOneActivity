@@ -1,0 +1,2 @@
+rootProject.name='SimpleSharedPreferencesOneActivity'
+include ':app'
